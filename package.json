@@ -34,7 +34,7 @@
     "node-sass": "^3.8.0",
     "ora": "^0.2.0",
     "sass-loader": "^4.0.0",
-    "shelljs": "^0.6.0",
+    "shelljs": "^0.8.5",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "vue-animated-list": "^1.0.2",
